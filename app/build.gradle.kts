@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.earsync"
+    namespace = "com.earsync.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.earsync"
+        applicationId = "com.earsync.app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

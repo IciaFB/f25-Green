@@ -1,4 +1,4 @@
-package com.example.earsync
+package com.earsync.app
 
 import android.Manifest
 import android.content.pm.PackageManager
